@@ -1,6 +1,3 @@
-Here’s the markdown code for the README file:
-
-```markdown
 # Discord Control Bot
 
 This project is a **TypeScript application** designed to take control of a Discord account and interact with contacts either through direct messages (DMs) or within servers.
@@ -99,4 +96,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
